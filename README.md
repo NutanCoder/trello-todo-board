@@ -54,8 +54,6 @@ npm run dev
 ```
 src/
 ├── components/     # Reusable UI components
-├── features/       # Feature-specific components and logic
-├── hooks/         # Custom React hooks
 ├── pages/         # Page components
 ├── services/      # API and external service integrations
 ├── store/         # Redux store configuration
